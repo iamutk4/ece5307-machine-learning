@@ -23,4 +23,4 @@ Topic of discussion in each folder is given as follows:
 
 9. Lab 9: Transfer Learning with a Pre-Trained Deep Neural Network by building a custom image dataset and fine tuning the final layers of an existing deep neural network for a new classification task
 
-10. Project:
+10. Project: Binary classification using Linear Methods, Neural Networks Methods, and Tree-based Methods
